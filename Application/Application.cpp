@@ -4,7 +4,7 @@
 #include "framework.h"
 #include "Application.h"
 
-
+# some fake commment
 CoolClass::CoolClass(void)
 {
 }
